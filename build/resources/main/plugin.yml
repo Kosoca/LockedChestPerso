@@ -1,0 +1,7 @@
+name: TavernLock
+version: '1.0-SNAPSHOT'
+main: fr.lataverne.tavernlock.TavernLock
+api-version: '1.21'
+commands:
+  tavernlock:
+    description: "commandes de base du plugin"

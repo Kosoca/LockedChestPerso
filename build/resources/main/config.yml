@@ -1,0 +1,8 @@
+messages:
+  prefix: "&e&l->&r "
+  detected_text_on_sign: "[Privé]"
+  chest_locked: "&aCe coffre est maintenant verrouillé pour vous."
+  chest_locked_others: "&cVous n'avez pas la permission d'ouvrir ce coffre !"
+  chest_unlock: "&aLe coffre est désormais déverrouillé."
+  shift_leftclick_for_break: "&bShift+Clique gauche pour casser le panneau."
+  no_permission: "&cVous n'avez pas la permission de faire cela."
